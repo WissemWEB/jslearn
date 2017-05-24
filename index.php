@@ -12,6 +12,7 @@
 	<button type="button" onclick="myFunction()">Set background color</button>
 	<p>New change to index.php</p>
 	<p>second change to index.php</p>
+	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, consectetur!</p>
 	<!-- Scripts -->
 
 	<!-- <script src="/js/fundamental/main1.js"></script> -->
