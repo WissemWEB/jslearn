@@ -11,6 +11,7 @@
 	<h1>Hello World!</h1>
 	<button type="button" onclick="myFunction()">Set background color</button>
 	<p>New change to index.php</p>
+	<p>second change to index.php</p>
 	<!-- Scripts -->
 
 	<!-- <script src="/js/fundamental/main1.js"></script> -->
