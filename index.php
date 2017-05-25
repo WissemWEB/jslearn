@@ -4,15 +4,22 @@
 <head>
 	<meta charset="UTF-8">
 	<title>WISSEM WEB</title>
-	
-	
+	<link rel="stylesheet" href="/css/style.css">
 </head>
 <body>
-	<h1>Hello World!</h1>
-	<button type="button" onclick="myFunction()">Set background color</button>
-	<p>New change to index.php</p>
-	<p>second change to index.php</p>
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quidem, consectetur!</p>
+	<header>
+		<p>HEADER</p>
+	</header>
+	<section>
+		<h1>Hello World!</h1>
+  	<button type="button" onclick="myFunction()">Set background color</button>
+	</section>
+	<footer>
+		<p>FOOTER</p>
+	</footer>
+	
+	
+
 	<!-- Scripts -->
 
 	<!-- <script src="/js/fundamental/main1.js"></script> -->
@@ -58,6 +65,5 @@
 	<script src='/js/DocumentEventsInterface/1_DocumentPageObjects/1_dom.js'></script>
 	
 	<!-- Scripts -->
-
 </body>
 </html>
