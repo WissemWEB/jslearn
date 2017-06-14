@@ -1,6 +1,26 @@
 body {
-	background-color: red;
+	background-color: white;
 }
 h1 { 
 	color: blue;
+}
+.menu li {
+	cursor: pointer;
+	/*float: left;*/
+	margin-left: 20px;
+}
+.alert {
+	padding: 15px;
+	border: 1px solid #d6e9c6;
+	border-radius: 4px;
+	color: #3c763d;
+	background-color: #dff0d8;
+}
+
+.new-div {
+	padding: 15px;
+	border: 1px solid #d6e9c6;
+	border-radius: 4px;
+	color: black;
+	background-color: blue;
 }
